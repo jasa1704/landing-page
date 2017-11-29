@@ -55,6 +55,9 @@ input, select {
 	border-radius: 7px;
 }
 table{
+	width: 900px;
+	margin: auto;
+	padding: 10px 20px;
 	background: #fff;
 	padding: 10px 20px;
 	color:#000;
